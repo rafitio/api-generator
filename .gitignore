@@ -9,7 +9,6 @@ config/
 routes/
 storage/
 database/
-/oas/
 .env
 .gen/
 *_create*_table.php
